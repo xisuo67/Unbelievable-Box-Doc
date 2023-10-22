@@ -120,10 +120,10 @@ export default withPwa(
                   text: 'Unbelievable-Box下载(github)',
                   link: 'https://github.com/xisuo67/Unbelievable-Box/releases',
                 },
-                // {
-                //   text: 'Unbelievable-Box下载下载(国内下载地址)',
-                //   link: 'http://yfloves.cn:8000/updates/Unbelievable-Box.zip',
-                // },
+                {
+                  text: 'Unbelievable-Box下载下载(国内下载地址)',
+                  link: 'http://yfloves.cn:8000/updates/UnbelievableBox.zip',
+                },
               ],
             },
           ],
