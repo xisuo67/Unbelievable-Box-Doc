@@ -36,6 +36,13 @@
 </table>
 </div>
 
+
+## 环境说明
+
+- **Unbelievable-Box目前仅支持windows10及以下操作系统（win11系统运行该程序可能会导致部分控件不可用），其他操作系统不支持**
+- Unbelievable-Box依托于.Net 6.0开发完成，这意味着你需要安装.Net 6.0运行时才能运行它，如果你的环境没有安装该运行时,启动Unbelievable-Box会提示异常信息。
+  - 如何安装运行时，请查看[运行说明](https://github.com/xisuo67/XHS-Spider/wiki/XHS-Spider)相关文档。
+
 ## 说明
 
 - 仅用于学习使用，学习webview2、wpf-ui
